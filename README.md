@@ -6,7 +6,6 @@
 - 👋 Hi, I’m Raymond Njoroge
 - 👀 I’m interested in Web Development, ML & Mobile Development
 - 🌱 I’m currently learning PHP & Laravel
-- 📫 How to reach me raym.njoroge@gmail.com
 
 **Connect with me:**<br>
 <a href="https://www.linkedin.com/in/raymondnjoroge/">
